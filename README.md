@@ -1,4 +1,7 @@
 # HTMLSederhana-CSS
+
+# Screenshot Hasil
+![s](https://github.com/JakaOktorio/HTMLSederhana-CSS/blob/JakaOktorio-patch-1/Screenshot%20Hasil.jpg)
 `===============================================================================`
 
 `Nama  : Jaka Oktorio`
